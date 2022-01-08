@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "Main",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "main",
+      "metadata": {
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "server",
+    "modName": "5UP3R_5MP",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.server",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
